@@ -4,4 +4,4 @@ firstbranch yazısı
 
 firstbranch 2.yazı ve önemli
 
-secondbranch bişeyler yazıyor
+firstbranch 3.yazı
