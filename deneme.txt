@@ -4,4 +4,4 @@ firstbranch yazısı
 
 firstbranch 2.yazı ve önemli
 
-firstbranch 3.yazı
+firstbranch 3.yazı //kardes al bunu
